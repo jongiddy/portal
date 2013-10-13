@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: git://github.com/myGrid/taverna-player
-  revision: 695acdbe779e5dea04cb33b76e07feb865d283a7
+  revision: 23e20a25d22aa617c585ebddba9a664f92041ffc
   branch: master
   specs:
     taverna-player (0.0.1)
@@ -111,7 +111,7 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.25)
-    multi_json (1.8.0)
+    multi_json (1.8.1)
     multi_xml (0.5.5)
     multipart-post (1.2.0)
     mysql2 (0.3.13)
@@ -194,7 +194,7 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    tzinfo (0.3.37)
+    tzinfo (0.3.38)
     uglifier (2.2.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
